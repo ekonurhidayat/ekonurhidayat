@@ -9,8 +9,10 @@ I'm a passionate software developer specializing in **Go, Vue.js, NuxtJS, Nuxt 3
 - **Other**: API Integration (WhatsApp Web, Bank API)
 
 ### 📌 Featured Projects
+- 🏭 **Weighing Scale System** (WMS)  
+  _Manage and Get Real Time Data from Weighing scale and create history for production in industry._
 - 🏭 **Warehouse Management System** (WMS)  
-  _Manage product data, supplier, stock, transaction inbound/outbound, and quality issues._
+  _Manage product data, supplier, stock, transaction inbound/outbound._
 - 🏭 **Product Lifecycle Management System** (PLM)  
   _Manage product data, supplier monitoring, and quality issues._
 - 🚗 **Barrier Gate System**  
