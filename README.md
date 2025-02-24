@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I'm [Your Name]!
+I'm a passionate software developer specializing in **Go, Vue.js, NuxtJS, Nuxt 3, PostgreSQL, MQTT and Kafka**. I love working on **backend development, system integration, and real-time data processing**.
 
-<!--
-**ekonurhidayat/ekonurhidayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack
+- **Languages**: Go, Python, JavaScript (Vue.js, Nuxt.js)
+- **Databases**: PostgreSQL, MySQL, Redis
+- **Frameworks**: Native Go
+- **Tools**: Docker, Kafka, RabbitMQ
+- **Other**: API Integration (WhatsApp Web, Bank API)
 
-Here are some ideas to get you started:
+### 📌 Featured Projects
+- 🏭 **Warehouse Management System** (WMS)  
+  _Manage product data, supplier, stock, transaction inbound/outbound, and quality issues._
+- 🏭 **Product Lifecycle Management System** (PLM)  
+  _Manage product data, supplier monitoring, and quality issues._
+- 🚗 **Barrier Gate System**  
+  _Integrated parking system with CCTV and Bank API Integrations._
+- 📡 **Modbus Sensor Data Processing**  
+  _Real-time monitoring and control using UDP protocol._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Get in Touch
+- LinkedIn: [EKO NURHIDAYAT](https://www.linkedin.com/in/eko-nurhidayat-4b7297140/)
+- Email: ekonurhidayat91@gmail.com
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ekonurhidayat&show_icons=true&theme=tokyonight)
