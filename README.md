@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [Your Name]!
+## 👋 Hi, I'm [EKo NURHIDAYAT]!
 I'm a passionate software developer specializing in **Go, Vue.js, NuxtJS, Nuxt 3, PostgreSQL, MQTT and Kafka**. I love working on **backend development, system integration, and real-time data processing**.
 
 ### 🛠 Tech Stack
